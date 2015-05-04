@@ -1,8 +1,8 @@
 require 'minitest/autorun'
 
 class SampleTest < Minitest::Test
-  def test_sample 
-    assert false
+  def test_sample
+    assert true
   end
 end
 
